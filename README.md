@@ -30,4 +30,4 @@ See https://www.aliexpress.com/item/TTGO-T5s-V1-9-ESP32-2-7-EPaper-module-for-Al
 
 The [OpenSCAD file](openscad/ttgo_t5s.scad) contains a (rough, wip) model of the approximate dimensions I built to help me verify the case design will fit properly.
 
-![OpenSCAD rendering of a TTGO T5S module][openscad/ttgo_t5s.png]
+![OpenSCAD rendering of a TTGO T5S module](openscad/ttgo_t5s.png)
