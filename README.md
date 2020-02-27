@@ -36,3 +36,7 @@ The [OpenSCAD file](openscad/ttgo_t5s.scad) contains a (rough, wip) model of the
 [EZDevice ESP32 prototype project](https://github.com/geeksville/ezdevice-esp32) 
 
 This is a nice chunk of sample code, and has some useful (very!) comments about sleep mode and power management, as well as identifying the pin (22) to which the BLUE LED is attached!
+
+[Nice and comprehensive WiFi config](https://github.com/khoih-prog/ESP_WiFiManager)
+
+Verified to work on my TTGO T5S v1.9, with two caveats : LED_PIN should be 22 and the LED ON/OFF are reversed.
