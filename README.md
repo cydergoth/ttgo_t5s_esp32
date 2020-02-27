@@ -31,3 +31,8 @@ See https://www.aliexpress.com/item/TTGO-T5s-V1-9-ESP32-2-7-EPaper-module-for-Al
 The [OpenSCAD file](openscad/ttgo_t5s.scad) contains a (rough, wip) model of the approximate dimensions I built to help me verify the case design will fit properly.
 
 ![OpenSCAD rendering of a TTGO T5S module](openscad/ttgo_t5s.png)
+
+# Useful links
+[EZDevice ESP32 prototype project](https://github.com/geeksville/ezdevice-esp32) 
+
+This is a nice chunk of sample code, and has some useful (very!) comments about sleep mode and power management, as well as identifying the pin (22) to which the BLUE LED is attached!
