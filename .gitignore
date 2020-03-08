@@ -33,3 +33,6 @@
 
 # EMACS backup files
 *~
+
+# 3d files
+*.stl
